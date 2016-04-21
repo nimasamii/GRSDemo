@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locations>
+    <location>
+        <name>GRS Köln</name>
+        <coordinates>
+            <latitude>50.938873</latitude>
+            <longitude>6.951560</longitude>
+        </coordinates>
+    </location>
+    <location>
+        <name>GRS Berlin</name>
+        <coordinates>
+            <latitude>52.5013886</latitude>
+            <longitude>13.3184387</longitude>
+        </coordinates>
+    </location>
+    <location>
+        <name>GRS Braunschweig</name>
+        <coordinates>
+            <latitude>48.7781933</latitude>
+            <longitude>9.1724334</longitude>
+        </coordinates>
+    </location>
+    <location>
+        <name>GRS Garching</name>
+        <coordinates>
+            <latitude>48.2654351</latitude>
+            <longitude>11.6691414</longitude>
+        </coordinates>
+    </location>
+    <location>
+        <name>GRS Paris</name>
+        <coordinates>
+            <latitude>48.8028864</latitude>
+            <longitude>2.2816892</longitude>
+        </coordinates>
+    </location>
+    <location>
+        <name>GRS Kiev</name>
+        <coordinates>
+            <latitude>50.386556</latitude>
+            <longitude>30.5293373</longitude>
+        </coordinates>
+    </location>
+</locations>
